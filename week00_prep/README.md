@@ -1,4 +1,4 @@
-# SPP Week 0: Pre-course preparation
+ASDA# SPP Week 0: Pre-course preparation
 
 SPP is a student-driven course, so most of your time learning is outside the classroom. This includes
 preparation, which is essential. Take assigned preparation seriously so you aren't lost during lecture.
@@ -14,9 +14,7 @@ skewed preparation time across students will reduce substantially in a few weeks
 We begin Week 1 with peer-to-peer presentations of `week00_prep_answers.py` (see end of page). So
 be sure to have it ready to discuss with your colleagues.
 
-You are ready for Week 1 of PiWE when you have:  
-1.	Installed Python and VS code.  
-2.	Installed scientific Python packages.  
+You are ready for Week 1 of PiWE when you have:  1.	Installed Python and VS code.  2.	Installed scientific Python packages.  
 3.	Installed git.  
 4. Created a GitHub account.  
 5.	Forked and cloned this repository.  
